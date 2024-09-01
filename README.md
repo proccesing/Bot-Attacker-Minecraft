@@ -33,6 +33,10 @@ cd Desktop
   npm i mineflayer readline-sync net fs proxy-agent
   node minecraft.js
 ```
+## RECUERDA ❗
+- No nos hacemos cargo del Uso que le dan
+- No permitimos la reventa del Producto
+
 ## Author
 
 - [@proccesing](https://www.github.com/proccesing)
